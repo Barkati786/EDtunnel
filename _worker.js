@@ -6,7 +6,7 @@
 
 /** @type {import("./workers").GlobalConfig} */
 export const globalConfig = {
-	userID: 'd342d11e-d424-4583-b36e-524ab1f0afa4',
+	userID: 'e43c51f5-8910-4ca9-b257-ec2a4995e72c',
 
 	/** Time to wait before an outbound Websocket connection is considered timeout, in ms. */
 	openWSOutboundTimeout: 10000,
