@@ -7,7 +7,7 @@
 const proxyIPs = ['128.199.228.44'];
 
 export let globalConfig = {
-	userID: 'd342d11e-d424-4583-b36e-524ab1f0afa4',
+	userID: '3af80b00-baee-4041-b45a-58b72b4f75db',
 
 	proxyIP: proxyIPs[Math.floor(Math.random() * proxyIPs.length)],
 
